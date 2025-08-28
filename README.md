@@ -6,4 +6,4 @@ A Robbery Bob fangame developed with Unreal Engine.
 
 # BUILDING
 
-To build this game, [you gotta download Unreal Engine.](https://www.unrealengine.com/en-US/download) After doing that, [download this repository](https://github.com/reallowpoly/RobberyBobOntheRun) and open the .uproject file! After that, go to the platforms dropdown in the editor, and choose your desired platform from there (if you have the modules for it downloaded).
+To build this game, [you gotta download the Unreal Engine version for this project, to check that, go to the .uproject file in this repository and click on the .uproject file.](https://www.unrealengine.com/en-US/download) After doing that, [download this repository](https://github.com/reallowpoly/RobberyBobOntheRun) and open the .uproject file! After that, go to the platforms dropdown in the editor, and choose your desired platform from there (if you have the modules for it downloaded).

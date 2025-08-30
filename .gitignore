@@ -12,3 +12,10 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+RBOTRBuilds/Windows/Engine/Config/StagedBuild_RobberyBobOntheRun.ini
+RBOTRBuilds/Windows/RobberyBobOntheRun.exe
+RBOTRBuilds/Windows/RobberyBobOntheRun/Content/Paks/global.ucas
+RBOTRBuilds/Windows/RobberyBobOntheRun/Content/Paks/global.utoc
+RBOTRBuilds/Windows/RobberyBobOntheRun/Content/Paks/RobberyBobOntheRun-Windows.pak
+RBOTRBuilds/Windows/RobberyBobOntheRun/Content/Paks/RobberyBobOntheRun-Windows.ucas
+RBOTRBuilds/Windows/RobberyBobOntheRun/Content/Paks/RobberyBobOntheRun-Windows.utoc
